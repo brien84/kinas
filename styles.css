@@ -1,0 +1,7 @@
+html, body {
+    background-color: oklch(0.13 0.028 261.692);
+}
+
+body {
+    font-family: 'Inter', system-ui, sans-serif;
+}
